@@ -1,8 +1,7 @@
 # LinkedIn Clone
 
-![LinkedIn Clone Demo](linkedin-gif.gif)
 
-**_Built using React JS, Redux, Firebase & Styled-Components_** within a week. My first project after learning React JS referencing a tutorial on YouTube by _'Clever Programmer'_. Added some features apart from the tutorial on my own like:
+**_Built using React JS, Redux, Firebase & Styled-Components_** within a week. React JS referencing a tutorial on YouTube by _'Clever Programmer'_. Added some features apart from the tutorial on my own like:
 
 -   Post like functionality
 -   Mobile responsiveness
